@@ -1,0 +1,1 @@
+for i in *.py; cat $i >> 2.txt; done
